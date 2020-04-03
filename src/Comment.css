@@ -1,0 +1,12 @@
+.ne{
+    border: 1px solid black;
+    width: 500px;
+    height: 300px;
+}
+.addtocalender{
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.sub{
+    margin-left: -400px;
+}

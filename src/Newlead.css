@@ -1,0 +1,112 @@
+.Description{
+    width: 400px;
+    height: 165px;
+}
+.title{
+    position: absolute;
+    width: 400px;
+}
+.Estimatedbudget{
+    position: absolute;
+    width: 250px;
+    margin-left: 5px;
+}
+.Referredby{
+    position: absolute;
+    width: 250px;
+    margin-left: 70px;
+}
+.Attechment{
+    position: absolute;
+    margin-left: 75px;
+}
+.Source{
+    position: absolute;
+    width: 300px;
+    margin-left: 35px;
+    
+} 
+.URL{
+width: 300px;
+}
+.Domain{
+    width: 300px;
+}
+.Keywords{
+    width: 300px;
+}
+.Technology{
+    position: absolute;
+    width: 300px;
+    margin-left: -5px;
+}
+.Assignto{
+    width: 222px;
+    
+}
+.assignee{
+    margin-left: 25px;
+}
+.prospectdetails{
+    border:1px solid #000;
+    width: 150px;
+    height: 30px;
+    padding-left: 10px;
+}
+.Existing{
+    padding-left: 0px;
+}
+.prospectus{
+    border:1px solid #000;
+    width: 865px;
+    height: 350px;
+    margin-left: 110px;
+}
+.Fullname{
+    margin-left: 30px;
+}
+.Sreetaddress{
+    margin-left: 40px;
+}
+.add-icon {
+border-radius: 50%;
+width: 30px;
+height: 30px;
+border:1px solid black;
+margin-left: 10px;
+padding: 2px;
+}
+.Email{
+    margin-left: 62px;
+}
+.City{
+    margin-left: 77px;
+}
+.Company{
+    margin-left: 33px;
+}
+.State{
+    margin-left: 110px;
+}
+.Designation{
+    margin-left: 16px;
+}
+.Country{
+    margin-left: 94px;
+}
+.Skypeid{
+    margin-left: 35px;
+}
+.mobileno{
+    margin-left: 105px;
+    width: 170px;
+}
+/* .submitandnew{
+    margin-left: 110px;
+}
+.submit{
+    margin-right: 940px;
+}
+.Cancle{
+    margin-left: 400px;
+} */
